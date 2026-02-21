@@ -22,10 +22,6 @@ To run the Fight Game:
    ```bash
    g++ main.cpp -o fightgame
    ```
-4. Run the game:
-   ```bash
-   ./fightgame
-   ```
 
 ## How to Play
 - Follow the on-screen instructions to begin your fights.
